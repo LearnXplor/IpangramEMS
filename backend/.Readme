@@ -1,0 +1,16 @@
+# MERN Stack Application Backend
+
+## Features
+- **Authentication**: Signup and login for employees and managers.
+- **CRUD Operations**: Managers can manage departments.
+- **Employee Views**: Employees can only see their data.
+- **Pagination**: Department data paginated (5 records per page).
+- **Custom Queries**:
+  - Employees in IT department with locations starting with 'A'.
+  - Employees in Sales department sorted by name in descending order.
+
+## Setup
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   npm install
